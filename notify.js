@@ -24,7 +24,7 @@
       duration : 7000,
       messageClass : 'info',
       classPrefix : 'hdr-notifications',
-      easing : 'swing',
+      easing : 'swing'
     },
 
     init : function(options) {
